@@ -11,8 +11,8 @@
   ],
   "main": "src/main.js",
   "module": "src/main.js",
-  "repository": "git@github.com:gerardag/person-entity-card.git",
-  "author": "Gerard Albanell <gerardalbanell@gmail.com>",
+  "repository": "git@github.com:GuyKh/person-entity-card.git",
+  "author": "Guy Khmelnitsky <guykhmel@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.15.7",

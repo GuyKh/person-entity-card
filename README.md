@@ -1,7 +1,7 @@
 # Person
 
-[![](https://img.shields.io/github/v/release/gerardag/person-entity-card.svg?style=flat-square)](https://github.com/gerardag/person-entity-card/releases/latest)
-[![Build](https://github.com/gerardag/person-entity-card/actions/workflows/build-and-tag.yaml/badge.svg?branch=main)](https://github.com/gerardag/person-entity-card/actions/workflows/build-and-tag.yaml)
+[![](https://img.shields.io/github/v/release/GuyKh/person-entity-card.svg?style=flat-square)](https://github.com/GuyKh/person-entity-card/releases/latest)
+[![Build](https://github.com/GuyKh/person-entity-card/actions/workflows/build-and-tag.yaml/badge.svg?branch=main)](https://github.com/GuyKh/person-entity-card/actions/workflows/build-and-tag.yaml)
 
 Person is a plugin which allows users to add "Person" entity in order to show the location with a beautiful integration.
 
@@ -14,7 +14,7 @@ Person is a plugin which allows users to add "Person" entity in order to show th
 *This card is available in [HACS](https://github.com/custom-components/hacs) (Home Assistant Community Store)*
 
 ### Manual install
-1. Download and copy `person-entity-card-bundle.js` from the [latest release](https://github.com/gerardag/person-entity-card/releases/latest) into your `config/www` directory.
+1. Download and copy `person-entity-card-bundle.js` from the [latest release](https://github.com/GuyKh/person-entity-card/releases/latest) into your `config/www` directory.
 2. Add a reference to `person-entity-card-bundle.js` inside your `ui-lovelace.yaml` or through the raw config editor interface.
   ```yaml
   resources:
@@ -26,7 +26,7 @@ Person is a plugin which allows users to add "Person" entity in order to show th
 1. Move into your `config/www` directory
 2. Download `person-entity-card-bundle.js`
   ```console
-  $ wget https://github.com/gerardag/person-entity-card/releases/download//person-entity-card-bundle.js
+  $ wget https://github.com/GuyKh/person-entity-card/releases/download//person-entity-card-bundle.js
   ```
 3. Add a reference to `person-entity-card-bundle.js` inside your `ui-lovelace.yaml` or through the raw config editor gui.
   ```yaml
