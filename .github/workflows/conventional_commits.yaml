@@ -5,10 +5,12 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
-    name: Conventional Commits
+  conventional:
+    name: Conventional PR
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      - uses: webiny/action-conventional-commits@v1.1.0
+      - uses: actions/setup-node@v2
+      - uses: beemojs/conventional-pr-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
