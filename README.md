@@ -1,7 +1,7 @@
 # Person
 
 [![](https://img.shields.io/github/v/release/GuyKh/person-entity-card.svg?style=flat-square)](https://github.com/GuyKh/person-entity-card/releases/latest)
-[![Build](https://github.com/GuyKh/person-entity-card/actions/workflows/build-and-tag.yaml/badge.svg?branch=main)](https://github.com/GuyKh/person-entity-card/actions/workflows/build-and-tag.yaml)
+[![Build](https://github.com/GuyKh/person-entity-card/actions/workflows/build.yaml/badge.svg?branch=main)](https://github.com/GuyKh/person-entity-card/actions/workflows/build.yaml)
 
 Person is a plugin which allows users to add "Person" entity in order to show the location with a beautiful integration.
 
