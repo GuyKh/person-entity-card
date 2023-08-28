@@ -11,7 +11,12 @@ Person is a plugin which allows users to add "Person" entity in order to show th
 
  ### HACS
 
-*This card is available in [HACS](https://github.com/custom-components/hacs) (Home Assistant Community Store)*
+
+1. Open HACS and navigate to the frontend section
+2. Open the Overflow Menu (⋮) in the top right corner and click on Custom repositories
+3. Paste https://github.com/GuyKh/person-entity-card into the input field and select Lovelace from the dropdown
+4. Click the Install Button on the highlighted card titled Person
+
 
 ### Manual install
 1. Download and copy `person-entity-card-bundle.js` from the [latest release](https://github.com/GuyKh/person-entity-card/releases/latest) into your `config/www` directory.
